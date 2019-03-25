@@ -20,35 +20,35 @@ On the present EOS market environment, there is no development tool with perfect
 
  
 
-\1. It is the first online edit, compile, debug, deploy set in one-scale EOS development tool.
+1. It is the first online edit, compile, debug, deploy set in one-scale EOS development tool.
 
  
 
-\2. Without building development environment and installing, online operation; 
+2. Without building development environment and installing, online operation; 
 
  
 
-\3. All the interactions is graphically shown; 
+3. All the interactions is graphically shown; 
 
  
 
-\4. Supports multiple compiler version; 
+4. Supports multiple compiler version; 
 
  
 
-\5. Supports deploying and running on multiple EOS node; 
+5. Supports deploying and running on multiple EOS node; 
 
  
 
-\6. Faster running speed, clear message remind and improving users’ experience.
+6. Faster running speed, clear message remind and improving users’ experience.
 
  
 
-\7. Developers can efficiently finish EOS smart contract development, etc.
+7. Developers can efficiently finish EOS smart contract development, etc.
 
  
 
-\8. Assists developers to enhance vulnerability risk awareness and avoid potential security hazards in the development process.
+8. Assists developers to enhance vulnerability risk awareness and avoid potential security hazards in the development process.
 
  
 
@@ -150,19 +150,19 @@ Input rules for parameters:
 
  
 
-\1. To input multiple parameters, commas (“,”) is required to separate these values. ![img](./img/图片7.png)
+1. To input multiple parameters, commas (“,”) is required to separate these values. ![img](./img/图片7.png)
 
  
 
  
 
-\2. In the case of inputting int64_t and symbol_type, which are asset type of parameters, please use blank space to separate them.
+2. In the case of inputting int64_t and symbol_type, which are asset type of parameters, please use blank space to separate them.
 
 ![img](./img/图片8.png) 
 
  
 
-\3. As for inputting array type of parameters, an example has been shown as below.
+3. As for inputting array type of parameters, an example has been shown as below.
 
 ![img](./img/图片9.png) 
 
