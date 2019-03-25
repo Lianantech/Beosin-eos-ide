@@ -94,7 +94,7 @@ Beosin EOS-IDE的推出使EOS应用开发更简单、更方便，欢迎大家免
 
  
 
-![img](C:./img/图片3.png) 
+![img](./img/图片3.png) 
 
 如图 1-2 Beosin EOS-IDE文件浏览区
 
